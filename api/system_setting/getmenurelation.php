@@ -32,3 +32,7 @@ $response = [
     'result'=>$sysSettingModules
 ];
 echo json_encode($response);
+
+$abc = 123;
+$i="dd";
+$abc = $abc + $i;
